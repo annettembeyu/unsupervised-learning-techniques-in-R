@@ -19,15 +19,15 @@ This section of the project entails reducing your dataset to a low dimensional d
 
 ### Part 2: Feature Selection
 
-This section requires you to perform feature selection through the use of the unsupervised learning methods learned earlier this week. You will be required to perform your analysis and provide insights on the features that contribute the most information to the dataset.
+This section involves performing feature selection through the use of the unsupervised learning methods. Then perform analysis and provide insights on the features that contribute the most information to the dataset.
 
 ### Part 3: Association Rules
 
-This section will require that you create association rules that will allow you to identify relationships between variables in the dataset. You are provided with a separate dataset that comprises groups of items that will be associated with others. Just like in the other sections, you will also be required to provide insights for your analysis.
+In this section I will create association rules that will allow  identification of relationships between variables in the dataset. Using separate dataset that comprises groups of items that will be associated with others. Provide insights for to my analysis.
 
 ### Part 4: Anomaly Detection
 
-You have also been requested to check whether there are any anomalies in the given sales dataset. The objective of this task being fraud detection. 
+The objective of this task is fraud detection by checking whether there are any anomalies in the given sales dataset.  
 
 
 ## Practise Outcome
